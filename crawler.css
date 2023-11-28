@@ -1,0 +1,10 @@
+body {
+    background-image: url(night-sky.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+
+}
+
+.fat-far-away { 
+    color: aqua;
+}
